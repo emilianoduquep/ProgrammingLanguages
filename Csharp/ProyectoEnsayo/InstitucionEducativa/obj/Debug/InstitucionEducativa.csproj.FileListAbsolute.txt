@@ -1,0 +1,8 @@
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\bin\Debug\InstitucionEducativa.exe.config
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\bin\Debug\InstitucionEducativa.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\bin\Debug\InstitucionEducativa.pdb
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\obj\Debug\InstitucionEducativa.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\obj\Debug\InstitucionEducativa.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\obj\Debug\InstitucionEducativa.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\obj\Debug\InstitucionEducativa.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\InstitucionEducativa\obj\Debug\InstitucionEducativa.pdb

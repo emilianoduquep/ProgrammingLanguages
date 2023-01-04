@@ -1,0 +1,8 @@
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\bin\Debug\Almacen.exe.config
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\bin\Debug\Almacen.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\bin\Debug\Almacen.pdb
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\obj\Debug\Almacen.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\obj\Debug\Almacen.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\obj\Debug\Almacen.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Almacen\obj\Debug\Almacen.pdb

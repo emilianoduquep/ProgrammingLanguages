@@ -1,0 +1,8 @@
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\obj\Debug\Udemy.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\obj\Debug\Udemy.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\obj\Debug\Udemy.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\bin\Debug\Udemy.exe.config
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\bin\Debug\Udemy.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\bin\Debug\Udemy.pdb
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\obj\Debug\Udemy.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\Udemy\obj\Debug\Udemy.pdb

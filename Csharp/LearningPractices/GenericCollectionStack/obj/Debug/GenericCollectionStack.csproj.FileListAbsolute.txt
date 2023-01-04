@@ -1,0 +1,8 @@
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\bin\Debug\GenericCollectionStack.exe.config
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\bin\Debug\GenericCollectionStack.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\bin\Debug\GenericCollectionStack.pdb
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\obj\Debug\GenericCollectionStack.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\obj\Debug\GenericCollectionStack.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\obj\Debug\GenericCollectionStack.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\obj\Debug\GenericCollectionStack.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionStack\obj\Debug\GenericCollectionStack.pdb

@@ -1,0 +1,16 @@
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\bin\Debug\GenericCollectionList.exe.config
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\bin\Debug\GenericCollectionList.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\bin\Debug\GenericCollectionList.pdb
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\obj\Debug\GenericCollectionList.exe
+C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\GenericCollectionList\obj\Debug\GenericCollectionList.pdb
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\bin\Debug\GenericCollectionList.exe.config
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\bin\Debug\GenericCollectionList.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\bin\Debug\GenericCollectionList.pdb
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.pdb

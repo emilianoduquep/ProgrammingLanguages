@@ -1,0 +1,8 @@
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\bin\Debug\DailyExpenses.exe.config
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\bin\Debug\DailyExpenses.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\bin\Debug\DailyExpenses.pdb
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\obj\Debug\DailyExpenses.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\obj\Debug\DailyExpenses.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\obj\Debug\DailyExpenses.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\obj\Debug\DailyExpenses.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\DailyExpenses\obj\Debug\DailyExpenses.pdb

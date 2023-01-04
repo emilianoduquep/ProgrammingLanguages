@@ -1,0 +1,8 @@
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\bin\Debug\TelephoneContacts.exe.config
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\bin\Debug\TelephoneContacts.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\bin\Debug\TelephoneContacts.pdb
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\obj\Debug\TelephoneContacts.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\obj\Debug\TelephoneContacts.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\obj\Debug\TelephoneContacts.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\obj\Debug\TelephoneContacts.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\TelephoneContacts\obj\Debug\TelephoneContacts.pdb

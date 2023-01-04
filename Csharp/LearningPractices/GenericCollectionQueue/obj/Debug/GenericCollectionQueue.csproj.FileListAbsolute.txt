@@ -1,0 +1,8 @@
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\bin\Debug\GenericCollectionQueue.exe.config
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\bin\Debug\GenericCollectionQueue.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\bin\Debug\GenericCollectionQueue.pdb
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\obj\Debug\GenericCollectionQueue.csproj.AssemblyReference.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\obj\Debug\GenericCollectionQueue.csproj.SuggestedBindingRedirects.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\obj\Debug\GenericCollectionQueue.csproj.CoreCompileInputs.cache
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\obj\Debug\GenericCollectionQueue.exe
+C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionQueue\obj\Debug\GenericCollectionQueue.pdb

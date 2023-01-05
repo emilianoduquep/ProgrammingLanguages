@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace VentaComputadores.clases
 {
-    internal class Raton: DispositivoEntrada
+    internal class Raton:  DispositivoEntrada
     {
         private readonly int idRaton;
         private static int contadorRatones;
-
-
 
         public Raton(string tipoEntrada, string marca)
             : base (tipoEntrada, marca)

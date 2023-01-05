@@ -1,8 +1,0 @@
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\obj\Debug\VentaComputadores.csproj.AssemblyReference.cache
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\obj\Debug\VentaComputadores.csproj.SuggestedBindingRedirects.cache
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\obj\Debug\VentaComputadores.csproj.CoreCompileInputs.cache
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\bin\Debug\VentaComputadores.exe.config
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\bin\Debug\VentaComputadores.exe
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\bin\Debug\VentaComputadores.pdb
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\obj\Debug\VentaComputadores.exe
-C:\ProgrammingLanguages\Csharp\PracticeProjects\VentaComputadores\obj\Debug\VentaComputadores.pdb

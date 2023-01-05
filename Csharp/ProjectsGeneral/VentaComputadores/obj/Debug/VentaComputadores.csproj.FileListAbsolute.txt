@@ -1,0 +1,8 @@
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\bin\Debug\VentaComputadores.exe.config
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\bin\Debug\VentaComputadores.exe
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\bin\Debug\VentaComputadores.pdb
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\obj\Debug\VentaComputadores.csproj.AssemblyReference.cache
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\obj\Debug\VentaComputadores.csproj.SuggestedBindingRedirects.cache
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\obj\Debug\VentaComputadores.csproj.CoreCompileInputs.cache
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\obj\Debug\VentaComputadores.exe
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\VentaComputadores\obj\Debug\VentaComputadores.pdb

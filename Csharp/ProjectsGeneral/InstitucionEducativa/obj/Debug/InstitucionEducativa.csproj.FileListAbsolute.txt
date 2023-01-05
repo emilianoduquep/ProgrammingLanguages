@@ -1,0 +1,8 @@
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\obj\Debug\InstitucionEducativa.csproj.AssemblyReference.cache
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\obj\Debug\InstitucionEducativa.csproj.SuggestedBindingRedirects.cache
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\obj\Debug\InstitucionEducativa.csproj.CoreCompileInputs.cache
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\bin\Debug\InstitucionEducativa.exe.config
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\bin\Debug\InstitucionEducativa.exe
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\bin\Debug\InstitucionEducativa.pdb
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\obj\Debug\InstitucionEducativa.exe
+C:\Git\ProgrammingLanguages\Csharp\ProjectsGeneral\InstitucionEducativa\obj\Debug\InstitucionEducativa.pdb

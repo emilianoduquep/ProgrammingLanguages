@@ -14,3 +14,11 @@ C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug
 C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.CoreCompileInputs.cache
 C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.exe
 C:\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.pdb
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\bin\Debug\GenericCollectionList.exe.config
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\bin\Debug\GenericCollectionList.exe
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\bin\Debug\GenericCollectionList.pdb
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.AssemblyReference.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.SuggestedBindingRedirects.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.csproj.CoreCompileInputs.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.exe
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\GenericCollectionList\obj\Debug\GenericCollectionList.pdb

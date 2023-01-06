@@ -1,0 +1,8 @@
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\bin\Debug\Vehiculo.exe.config
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\bin\Debug\Vehiculo.exe
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\bin\Debug\Vehiculo.pdb
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\obj\Debug\Vehiculo.csproj.AssemblyReference.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\obj\Debug\Vehiculo.csproj.SuggestedBindingRedirects.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\obj\Debug\Vehiculo.csproj.CoreCompileInputs.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\obj\Debug\Vehiculo.exe
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\Vehiculo\obj\Debug\Vehiculo.pdb

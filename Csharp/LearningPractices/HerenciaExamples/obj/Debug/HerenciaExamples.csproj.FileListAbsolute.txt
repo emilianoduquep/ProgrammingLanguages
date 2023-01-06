@@ -1,0 +1,8 @@
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\bin\Debug\HerenciaExamples.exe.config
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\bin\Debug\HerenciaExamples.exe
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\bin\Debug\HerenciaExamples.pdb
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\obj\Debug\HerenciaExamples.csproj.AssemblyReference.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\obj\Debug\HerenciaExamples.csproj.SuggestedBindingRedirects.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\obj\Debug\HerenciaExamples.csproj.CoreCompileInputs.cache
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\obj\Debug\HerenciaExamples.exe
+C:\Git\ProgrammingLanguages\Csharp\LearningPractices\HerenciaExamples\obj\Debug\HerenciaExamples.pdb

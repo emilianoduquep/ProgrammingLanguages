@@ -1,8 +1,0 @@
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\bin\Debug\ProyectoEnsayo.exe.config
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\bin\Debug\ProyectoEnsayo.exe
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\bin\Debug\ProyectoEnsayo.pdb
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\obj\Debug\ProyectoEnsayo.csproj.AssemblyReference.cache
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\obj\Debug\ProyectoEnsayo.csproj.SuggestedBindingRedirects.cache
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\obj\Debug\ProyectoEnsayo.csproj.CoreCompileInputs.cache
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\obj\Debug\ProyectoEnsayo.exe
-C:\ProgrammingLanguages\Csharp\ProyectoEnsayo\ProyectoEnsayo\obj\Debug\ProyectoEnsayo.pdb

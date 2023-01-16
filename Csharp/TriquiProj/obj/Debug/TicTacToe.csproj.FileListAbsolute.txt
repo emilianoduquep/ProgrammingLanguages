@@ -1,0 +1,16 @@
+C:\Users\eduque\source\repos\TriquiProj\bin\Debug\TriquiProj.exe.config
+C:\Users\eduque\source\repos\TriquiProj\bin\Debug\TriquiProj.exe
+C:\Users\eduque\source\repos\TriquiProj\bin\Debug\TriquiProj.pdb
+C:\Users\eduque\source\repos\TriquiProj\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\eduque\source\repos\TriquiProj\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduque\source\repos\TriquiProj\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\eduque\source\repos\TriquiProj\obj\Debug\TriquiProj.exe
+C:\Users\eduque\source\repos\TriquiProj\obj\Debug\TriquiProj.pdb
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\bin\Debug\TriquiProj.exe.config
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\bin\Debug\TriquiProj.exe
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\bin\Debug\TriquiProj.pdb
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\obj\Debug\TriquiProj.exe
+C:\Git\ProgrammingLanguages\Csharp\TriquiProj\obj\Debug\TriquiProj.pdb
